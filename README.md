@@ -1,2 +1,2 @@
 # My2nd_Repo
-This is my  2nd repo in github.however,nothing happend
+This is my  2nd repo in github.however,nothing happend.
